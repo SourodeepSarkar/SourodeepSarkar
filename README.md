@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SourodeepSarkar
 - 👀 I’m interested in Coding, Sports, Music and Astronomy
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Swift, Python, and Java
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: Insta (sarkarsourodeepofficial)
+- 📫 How to reach me: Insta (@souros._
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Adult cats only meow to humans, not other cats.
 
